@@ -1,0 +1,101 @@
+[
+    {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/wRfvQmlutK8",
+        "mediaId": "wRfvQmlutK8",
+        "title": "Cressy Patient Sling Fitting & Usage Demonstration",
+        "summary": "The Cressy Sling from Ability Lifting Solutions www.abilitylifting.co.uk has been designed in conjunction with a well renowned moving and handling team and their occupational therapists.\nIt is based on a deluxe style sling and comes complete with an integral head support. The padded legs with slide sheet material make the Cressy Sling easy to fit and comfortable to use.",
+        "posted": "2013-11-21 18:05:11",
+        "author": "Jack Carer",
+        "source": ""
+    },
+    
+    {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/cA0G90tSjis",
+        "mediaId": "cA0G90tSjis",
+        "title": "Oxford Stature Disability Aid Hoist Bed to Chair Transfer",
+        "summary": "Video shows how to us the Oxford Stature Hoist Mobility Aid to transfer a patient from a bed to a chair.",
+        "posted": "2013-10-21 18:05:42",
+        "author": "Jane Nurse",
+        "source":""
+    },
+    
+    {
+        "type": "rss",
+        "url"  : "",
+        "mediaId":"",
+        "title": "Social Care TV: Safeguarding adults in care",
+        "summary": "An open and supportive culture is needed to ensure staff, residents and their relatives feel comfortable about raising safeguarding concerns.",
+        "posted": "2013-12-03 15:44:36",
+        "author": "",
+        "source": "Guardian Health"
+    },
+    
+    {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/96ruuaRNqqM",
+        "mediaId": "96ruuaRNqqM",
+        "title": "Deluxe Sling Fitting & Usage Demonstration",
+        "summary": "The Deluxe Sling from Ability Lifting Solutions www.abilitylifting.co.uk is one of the most popular styles of sling, providing excellent levels of comfort and support whilst being easy to take on and off.\nAn optional Easi-On Head Support Available and slide sheet material built in to the leg section makes the sling faster and easier to fit.\nThe deluxe is available in 9 sizes from paediatric and adult to bariatric sizes.",
+        "posted": "2013-11-21 18:05:18",
+        "author": "Joan Doctor",
+        "source": ""
+    },
+    
+    {
+        "type": "article",
+        "url"  : "",
+        "mediaId":"",
+        "title": "NHS deal on branded-medicine cost",
+        "summary": "The government and pharmaceutical companies have agreed a five-year-deal to fix NHS spending on branded medicines across the UK.",
+        "posted": "2013-11-06 10:52:11",
+        "author": "Jack Carer",
+        "source": ""
+    },
+    
+    {
+        "type": "rss",
+        "url"  : "",
+        "mediaId":"",
+        "title": "'New part of knee joint discovered'",
+        "summary": "Two knee surgeons in Belgium say they have identified a previously unfamiliar ligament in the human knee.",
+        "posted": "2013-11-07 14:22:47",
+        "author" :"",
+        "source": "BBC Health"
+    },
+    
+    {
+        "type": "vimeo",
+        "url": "https://player.vimeo.com/video/64408746",
+        "mediaId": "64408746",
+        "title": "SHOWcabinet: Prosthetics exhibition - Bound",
+        "summary": "Prosthetics Exibition, April 2013",
+        "posted": "2013-09-29 14:18:00",
+        "author": "Joan Doctor",
+        "source": ""
+    },
+    
+    {
+        "type": "article",
+        "url"  : "",
+        "mediaId":"",
+        "title": "Making social care matter",
+        "summary": "Skills for Care chief executive Sharon Allen is trying to highlight the importance of the care sector to society while also delivering on government expectations.",
+        "posted": "2013-10-16 09:48:35",
+        "author": "Joan Doctor",
+        "source" :""
+    },
+    
+    {
+        "type": "rss",
+        "url"  : "",
+        "mediaId":"",
+        "title": "Social care: under pressure like never before",
+        "summary": "Leaders of children's and adults' services are stripped of funding on the one hand and chastised for not excelling on the other. How can the sector maintain morale?",
+        "posted": "2013-10-16 03:05:53",
+        "author" : "",
+        "source": "Guardian Health"
+    }
+    
+]

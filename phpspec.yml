@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Byng
+        psr4_prefix: Byng
+        src_path: app
