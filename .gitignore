@@ -9,3 +9,5 @@ Homestead.yaml
 
 ## Directory-based project format:
 .idea/
+/**/.idea/*
+/**/.idea/workspace.xml
