@@ -56,6 +56,30 @@
   font-style: italic;
 }
 
+/*- FILTER OPTIONS -*/
+ul#filterOptions {
+  width: 80%;
+  height: 52px;
+  margin: 30px auto;
+  overflow: hidden;
+  list-style: none;
+}
+ul#filterOptions li { height: 52px; margin-right: 2px; float: left; }
+ul#filterOptions li a {
+  height: 50px;
+  padding: 0 20px;
+  border: 1px solid $brand-primary;
+  background: lighten($brand-primary,20%);
+  color: #fff;
+  font-weight: bold;
+  line-height: 50px;
+  text-decoration: none;
+  display: block;
+}
+ul#filterOptions li a:hover { background: lighten($brand-primary,10%); }
+ul#filterOptions li.active a { background: $brand-primary; }
+/*- -*/
+
 
 
 /* =======================================================================================

@@ -6,8 +6,15 @@
         <div class="container__inner">
 
             @include('flash::message')
+            <ul id="filterOptions" class="visible-lg">
+                <li class="active"><a href="#" class="all">All</a></li>
+                <li><a href="#" class="article-youtube">Youtube Articles</a></li>
+                <li><a href="#" class="article-rss">RSS Articles</a></li>
+                <li><a href="#" class="article-simple">Articles</a></li>
+                <li><a href="#" class="article-vimeo">Vimeo Articles</a></li>
+            </ul>
             @foreach( $articles as $article)
-                <div class="row article__row">
+                <div class="row article__row <?php echo addFilteredClass($article);?>">
                     <div class="col-md-8 article__row-content">
                         <header>
                             <h2>{{ $article->title }}</h2>
@@ -31,7 +38,6 @@
                                 " frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div><!--/row-->
-                <hr />
             @endforeach
         </div>
     </div><!--/ main-content -->

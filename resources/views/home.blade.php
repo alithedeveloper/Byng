@@ -12,7 +12,7 @@
                 <p>Bringing you the best news around the globe</p>
             </div>
             @foreach( $articles as $article)
-                <div class="row article__row">
+                <div class="row article__row <?php echo addFilteredClass($article);?>">
                     <div class="col-md-8 article__row-content">
                         <header>
                             <h2>{{ $article->title }}</h2>

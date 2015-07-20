@@ -21,6 +21,9 @@
         "classmap": [
             "database"
         ],
+        "files": [
+            "app/support/helper.php"
+        ],
         "psr-4": {
             "Byng\\": "app/"
         }

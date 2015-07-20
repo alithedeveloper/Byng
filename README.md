@@ -55,6 +55,14 @@ Config Files
 
 ----------
 
+Support
+-------------
+
+> - The support directory is located under app/support which has a helper.php file that is used to add a class for 
+    purpose filtering content.
+
+----------
+
 
 Views
 -------------
